@@ -7,3 +7,5 @@ Versión: Python 3.8.8
 <br> 3/ Se hace apoyo de una hoja de un libro de excel en el que están los reportes diarios de Minsalud desde el 6 de marzo de 2020.
 <br> 4/ Hay líneas de cógido que se omiten en el análisis general.
 <br> 5/ Los datos no están categorizados en este proyecto.
+
+<br> Discusión: https://github.com/Nebiros96/Covid_Colombia_v09/discussions/1
